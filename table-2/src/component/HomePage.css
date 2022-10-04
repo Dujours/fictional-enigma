@@ -1,0 +1,8 @@
+.search {
+  width: 100% !important;
+  margin: 10px 10px 10px 0px !important;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  background-color: azure;
+  border-radius: 10px;
+}

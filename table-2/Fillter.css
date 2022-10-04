@@ -1,0 +1,17 @@
+.filter-bar {
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #999;
+  padding: 20px 0px;
+}
+
+.filter-bar-tile {
+  border-right: 1px solid #999;
+  padding: 0px 20px;
+}
+
+.category-filter {
+  border: 1px solid orange;
+  border-radius: 20px;
+  padding: 5px 20px;
+  margin: 10px 10px 10px 0px;
+}
